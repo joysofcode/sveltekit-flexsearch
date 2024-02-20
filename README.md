@@ -8,7 +8,7 @@ Simple but powerful search with zero network requests at no cost.
 
 ## Remote Development
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/joysofcode/blazing-fast-sveltekit-search)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/joysofcode/sveltekit-flexsearch)
 
 ## Local Development
 
